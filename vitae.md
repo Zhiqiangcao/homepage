@@ -54,24 +54,24 @@ Papers:
 
 ## Project Experience
 1. Regression model based on survival data study, National Natural Science Foun- dation, Beijing Normal University. 2013.9-2014.10
---Involved in programming and doing numerical simulation.
+- Involved in programming and doing numerical simulation.
 2. Structure and efficiency of Chinese insurance market study, The Second Chongqing University College Students’ Scientific Research Training Program, Chongqing University. 2010.7-2011.7
--- Responsible for building Three-stage DEA model and analyzing data.
--- Involved in writing the paper: Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009.
+- Responsible for building Three-stage DEA model and analyzing data.
+- Involved in writing the paper: Efficiency Evolution of Property Insurance Industry in China based on Three-stage Data Envelopment: Analysis of Unbalance Panel Data from 2004 to 2009.
 
 ## Work Experience
 1. Intern, R&D Centre, Nanjing mint co., LTD, Nanjing, 2014.11-2015.4 • --Taking part in building models and writing programs for feature extraction and visual inspection of tax invoice production.
 1. Intern, Medical Research Statistical Center, Fu Wai Hospital, Beijing. 2013.7-2013.11
---UsingadditivehazardmodeltoanalyzetheTreatmenteffectofH1N1FluBetween
+- UsingadditivehazardmodeltoanalyzetheTreatmenteffectofH1N1FluBetween
 Traditional Chinese Medicine and Tamiflu.
 --Taking part in PURE (Prescriptive Urban & Rural Epidemiology Study) project, analyzing relative data using descriptive statistics.
 1. Teaching Assistant, HKUST, Hong Kong. 2016.2-Present
---Survival analysis, Statistical inference, Regression analysis.
+- Survival analysis, Statistical inference, Regression analysis.
 1. Teaching Assistant, Beijing Normal University, Beijing. 2013.9-2014.6
---Time series analysis, Probability theory and mathematical statistics.
+- Time series analysis, Probability theory and mathematical statistics.
 1. Vounteer, The 7th R Conference of China, Beijing. 2014.4-2014.5
---Participating in production meeting manual and analyzing data about participants.
---Meeting on-site service.
+- Participating in production meeting manual and analyzing data about participants.
+- Meeting on-site service.
 
 ## Computer Skills
 1. Programing: R(excellent), Matlab(good), C(good), SAS(basic). Others: 2. Office software, LATEX, Markdown.
