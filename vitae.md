@@ -61,7 +61,8 @@ Papers:
 
 ## Work Experience
 ### Intern:
-1. R&D Centre, Nanjing mint co., LTD, Nanjing, 2014.11-2015.4 • --Taking part in building models and writing programs for feature extraction and visual inspection of tax invoice production.
+1. R&D Centre, Nanjing mint co., LTD, Nanjing, 2014.11-2015.4 
+- Taking part in building models and writing programs for feature extraction and visual inspection of tax invoice production.
 1. Medical Research Statistical Center, Fu Wai Hospital, Beijing. 2013.7-2013.11
 - Using additive hazards model to analyze the Treatment effect of H1N1 Flu Between
 Traditional Chinese Medicine and Tamiflu.
@@ -77,4 +78,5 @@ Traditional Chinese Medicine and Tamiflu.
 - Meeting on-site service.
 
 ## Computer Skills
-1. Programing: R(excellent), Matlab(good), C(good), SAS(basic). Others: 2. Office software, LATEX, Markdown.
+1. Programing: R(excellent), Matlab(good), C(good), SAS(basic). Others: 
+1. Office software, LATEX, Markdown.
